@@ -1,5 +1,8 @@
 Example 1
 =========
+How to Run : Simply type - "make"
 
-Close to the simplest possible example of Unity, using only basic features.
-Run make to build & run the example tests.
+My output file is : lokeshtest3.out
+Source files are : src/lokesh.c  ; src/lokesh.h
+Test files : test/TestLokeshCode.c
+Test Runners files : test/test_runners/TestLokeshCode_Runner.c
